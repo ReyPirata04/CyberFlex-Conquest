@@ -6,6 +6,7 @@ class Robot:
         self.vida = vida
         self.ataque = ataque
 
+
     #Funciones...
 
 

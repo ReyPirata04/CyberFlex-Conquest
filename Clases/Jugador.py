@@ -16,11 +16,11 @@ class Jugador:
 
 
 # Crear una instancia de la clase Jugador
-Jugador1 = Jugador("Lucas","Chappie")
+#Jugador1 = Jugador("Lucas","Chappie")
 
 # Acceder a los atributos de la instancia
-print(f"Nombre del jugador 1: {Jugador1.nombre}")
-print(f"Robot elegido: {Jugador1.robot}")
+#print(f"Nombre del jugador 1: {Jugador1.nombre}")
+#print(f"Robot elegido: {Jugador1.robot}")
 
 # Llamar a un método de instancia
-Jugador1.elegir()
+#Jugador1.elegir()
